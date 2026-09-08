@@ -1,0 +1,65 @@
+{
+  "currency": "KRW",
+  "week": {
+    "Monday": [
+      {
+        "name": "Bibimbap",
+        "description": "Warm rice topped with seasoned seasonal vegetables, gochujang, sesame oil and a fried egg.",
+        "price": 4500,
+        "vegetarian": true
+      },
+      {
+        "name": "Pork Cutlet with Curry Rice",
+        "description": "Crispy breaded pork cutlet served over steamed rice with mild vegetable curry sauce.",
+        "price": 5000,
+        "vegetarian": false
+      },
+      {
+        "name": "Tofu & Vegetable Stir-fry",
+        "description": "Pan-fried tofu with mushrooms, zucchini and bell peppers in a light soy-garlic sauce, with brown rice.",
+        "price": 4000,
+        "vegetarian": true
+      }
+    ],
+    "Tuesday": [
+      {
+        "name": "Vegetable Kimchi Fried Rice",
+        "description": "Rice stir-fried with aged vegetable kimchi and scallions, topped with a fried egg and roasted seaweed.",
+        "price": 4500,
+        "vegetarian": true
+      },
+      {
+        "name": "Chicken Teriyaki Bowl",
+        "description": "Grilled chicken thigh glazed with teriyaki sauce over steamed rice with pickled radish.",
+        "price": 5500,
+        "vegetarian": false
+      },
+      {
+        "name": "Doenjang Stew with Pork",
+        "description": "Soybean paste stew simmered with pork, tofu, zucchini and mushrooms, served with rice.",
+        "price": 4500,
+        "vegetarian": false
+      }
+    ],
+    "Wednesday": [
+      {
+        "name": "Japchae with Rice",
+        "description": "Sweet-potato glass noodles stir-fried with spinach, carrot, onion and mushrooms in sesame soy sauce.",
+        "price": 4800,
+        "vegetarian": true
+      },
+      {
+        "name": "Spicy Pork Bulgogi",
+        "description": "Thin pork slices marinated in a spicy gochujang sauce, stir-fried with onion and served with rice.",
+        "price": 5200,
+        "vegetarian": false
+      },
+      {
+        "name": "Seaweed Soup with Tofu",
+        "description": "Light seaweed soup simmered with soft tofu and garlic in a clear vegetable broth, served with rice.",
+        "price": 3800,
+        "vegetarian": true
+      }
+    ]
+  }
+}
