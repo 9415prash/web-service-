@@ -179,7 +179,7 @@ function formatDate(value) {
 <template>
   <div class="page-shell">
     <header class="topbar">
-      <a class="brand" href="/" aria-label="Campus Board home">
+      <a class="brand" href="./" aria-label="Campus Board home">
         <span class="brand-mark" aria-hidden="true">C</span>
         <span>Campus<span class="brand-light">Board</span></span>
       </a>
@@ -356,7 +356,7 @@ function formatDate(value) {
     </main>
 
     <footer class="footer">
-      <a class="brand footer-brand" href="/" aria-label="Campus Board home">
+      <a class="brand footer-brand" href="./" aria-label="Campus Board home">
         <span class="brand-mark" aria-hidden="true">C</span>
         <span>Campus<span class="brand-light">Board</span></span>
       </a>
